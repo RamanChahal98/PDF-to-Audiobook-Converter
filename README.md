@@ -1,7 +1,7 @@
 # PDF-to-Audiobook-Converter
 This Project converts any PDF to an Audiobook.
 
-Packages used:
+Packages:
 Python-text-to-speech version 3 (pyttsx3) 
 Python PDF 2 (PyPDF2)
 
